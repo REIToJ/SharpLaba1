@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpLaba1", "SharpLaba1\SharpLaba1.csproj", "{415A680E-6F8B-4F26-A41C-2D668910932B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{415A680E-6F8B-4F26-A41C-2D668910932B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{415A680E-6F8B-4F26-A41C-2D668910932B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{415A680E-6F8B-4F26-A41C-2D668910932B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{415A680E-6F8B-4F26-A41C-2D668910932B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F9C891E-E39C-482B-86F5-997E240DF7A7}
+	EndGlobalSection
+EndGlobal
